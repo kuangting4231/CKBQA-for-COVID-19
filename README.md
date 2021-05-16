@@ -8,7 +8,7 @@ KG/ knowledge search, knowledge base question answering system without integrati
 
 Relationship extraction/deep learning model      Branches 1
 
-Relation extraction 3/ final knowledge base system      Branches 3
+Relation extraction 3/ final knowledge base system      main/FinalSystem
 
 Two triple files
 
