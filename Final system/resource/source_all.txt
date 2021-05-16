@@ -1,0 +1,100 @@
+成 都 新 增 1 例 无 症 状 感 染 者	B_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j
+张 文 宏 ： 中 国 有 半 年 至 1 年 的 窗 口 期 通 过 疫 苗 接 种 建 立 免 疫 优 势	O O O O B_j I_j O B_j I_j I_j I_j I_j O O O O O O B_j I_j B_j I_j O O B_j I_j O O
+新 增 1 例 境 外 输 入 无 症 状 感 染 者 ， 曾 5 次 核 酸 阴 性 ， 黑 龙 江 塔 河 进 入 战 时 状 态	O O O O B_j I_j I_j I_j B_j I_j I_j I_j I_j I_j O O O O O O O O O B_j I_j I_j I_j I_j O O O O O O
+香 港 新 增 确 诊 69 例 ， 其 中 1 9 例 本 地 感 染 源 头 不 明	B_j I_j B_j I_j B_j I_j O O O O O O O O B_j I_j B_j I_j B_j I_j I_j I_j
+面 试 第 一 却 因 未 做 胸 透 被 拒 录 孕 妇 起 诉 当 地 教 体 局	B_j I_j O O O O O O O O O B_j I_j B_j I_j B_j I_j O O B_j I_j I_j
+@ 所 有 人 跨 省 异 地 就 医 全 国 自 助 查 询 服 务 正 式 开 通 ！	O O O O O O B_j I_j I_j I_j O O O O B_j I_j O O O O B_j I_j O
+ 四 川 内 江 发 生 两 起 严 重 恶 性 暴 力 案 件 致 3 人 死 亡 警 方 发 布 悬 赏 通 告	B_j I_j I_j I_j O O O O O O O O B_j I_j I_j I_j O O O B_j I_j B_j I_j O O B_j I_j B_j I_j
+新 疆 吐 鲁 番 新 增 3 例 无 症 状 感 染 者	B_j I_j I_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 病 例 1 3 例 ， 均 为 境 外 输 入	B_j I_j I_j I_j I_j O O O O O B_j I_j I_j I_j O O O O O O B_j I_j I_j I_j
+上 海 昨 日 新 增 境 外 输 入 5 例 ， 治 愈 出 院 4 例	B_j I_j O O B_j I_j O O B_j I_j I_j I_j O B_j I_j B_j I_j I_j I_j
+严 防 ！ 黑 龙 江 新 增 2 例 本 土 无 症 状 感 染 者	O O O B_j I_j I_j B_j I_j O O O O B_j I_j I_j I_j I_j I_j
+成 都 完 成 核 酸 采 样 145 万 人 ， 除 首 发 病 例 外 检 出 阳 性 11 人	B_j I_j O O B_j I_j O O O O O O O O O O O O O O B_j I_j I_j I_j
+成 都 郫 都 区 新 增 本 土 确 诊 病 例 2 例 病 例 详 情 公 布 →	B_j I_j I_j I_j I_j B_j I_j B_j I_j I_j I_j O O O O O O O O O O O
+绥 芬 河 新 增 2 例 无 症 状 感 染 者 ： 1 人 为 口 岸 装 卸 工 ， 1 人 为 学 生	B_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j O O O O O O B_j I_j I_j O O O O B_j I_j
+刚 刚 通 报 ！ 重 庆 新 增 一 例 无 症 状 感 染 者 ， 曾 外 出 购 物 就 餐	O O O O O B_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j O O B_j I_j B_j I_j I_j I_j
+内 蒙 古 呼 伦 贝 尔 扎 赉 诺 尔 区 公 布 2 例 确 诊 病 例 活 动 轨 迹	B_j I_j I_j I_j I_j I_j I_j I_j I_j I_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 病 例 15 例 其 中 本 土 病 例 6 例	O O O O O O O O B_j I_j B_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j I_j I_j
+黑 龙 江 昨 日 新 增 本 土 确 诊 病 例 2 例 ， 详 情 公 布	B_j I_j I_j O O B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j O O O O O
+上 海 昨 日 无 新 增 本 地 新 冠 肺 炎 确 诊 病 例 ， 新 增 境 外 输 入 5 例	B_j I_j O O O B_j I_j O O O O O O O O O O O O O B_j I_j I_j I_j I_j I_j
+中 国 科 研 团 队 揭 示 新 冠 病 毒 由 水 貂 向 人 传 播 机 理	B_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j O O O O B_j I_j I_j I_j I_j
+黑 龙 江 绥 芬 河 、 东 宁 市 公 布 新 增 本 土 病 例 详 情	B_j I_j I_j I_j I_j I_j O B_j I_j I_j O O B_j I_j B_j I_j I_j I_j O O
+成 都 郫 都 第 2 轮 核 酸 检 测 检 出 4 例 阳 性 病 例	B_j I_j I_j I_j O O O B_j I_j I_j I_j O O B_j I_j I_j I_j I_j I_j
+1 2 月 1 0 日 牡 丹 江 市 东 宁 市 、 绥 芬 河 市 各 新 增 1 例 本 土 确 诊 病 例	O O O O O O B_j I_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j O B_j I_j O O B_j I_j I_j I_j I_j I_j
+黑 龙 江 ： 根 据 疫 情 形 势 哈 尔 滨 中 小 学 生 元 旦 起 放 寒 假	O O O O O O O O O O B_j I_j I_j I_j I_j I_j I_j B_j I_j O B_j I_j I_j
+黑 龙 江 东 宁 新 增 1 例 确 诊 病 例 ！ 当 地 启 动 三 级 响 应 ！	B_j I_j I_j I_j I_j B_j I_j O O B_j I_j I_j I_j O O O B_j I_j B_j I_j I_j I_j O
+成 都 女 孩 遭 网 暴 ： 生 命 至 上 ， 感 染 者 不 是 洪 水 猛 兽	B_j I_j I_j I_j O O O O O O O O O B_j I_j I_j O O B_j I_j I_j I_j
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 病 例 1 2 例 ， 其 中 本 土 1 例 在 内 蒙 古	O O O O O O O O B_j I_j B_j I_j I_j I_j I_j I_j I_j O O O O O B_j I_j I_j I_j I_j I_j
+上 海 昨 日 无 新 增 本 地 新 冠 肺 炎 确 诊 病 例 ， 新 增 境 外 输 入 9 例 ， 治 愈 出 院 2 例	B_j I_j O O O B_j I_j O O O O O O O O O O O O O B_j I_j I_j I_j I_j I_j O B_j I_j B_j I_j I_j I_j
+世 卫 组 织 ： 全 球 新 冠 肺 炎 确 诊 超 6778 万 例	O O O O O B_j I_j I_j I_j I_j I_j B_j I_j B_j I_j I_j I_j
+成 都 累 计 报 告 新 冠 肺 炎 确 诊 病 例 6 例 ， 无 症 状 感 染 者 1 名	B_j I_j O O B_j I_j O O O O B_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j I_j I_j
+成 都 ： 已 追 踪 到 上 述 确 诊 病 例 及 无 症 状 感 染 者 的 密 切 接 触 者 4 3 3 人	B_j I_j O O B_j I_j O O O B_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j I_j I_j I_j
+直 击 成 都 疫 情 防 控 ： 病 毒 源 头 在 哪 ？ 筛 查 何 时 能 完 成 ？	O O B_j I_j I_j I_j B_j I_j O B_j I_j I_j I_j O O O B_j I_j O O O B_j I_j O
+华 西 专 家 梁 宗 安 ： 本 次 疫 情 为 聚 集 性 发 病 不 是 社 区 传 播	B_j I_j I_j I_j I_j I_j I_j O O O B_j I_j O B_j I_j I_j I_j I_j O O B_j I_j I_j I_j
+食 堂 员 工 感 染 ， 成 都 岷 阳 实 验 外 国 语 学 校 全 体 师 生 教 职 工 均 阴 性	O O O O O O O B_j I_j I_j I_j I_j I_j I_j I_j I_j I_j I_j B_j I_j I_j I_j I_j I_j I_j O B_j I_j
+成 都 大 巴 、 出 租 车 最 新 防 控 措 施 ： 中 风 险 地 区 按 核 载 50% 载 客	B_j I_j I_j I_j O B_j I_j I_j O O B_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j I_j I_j I_j I_j I_j
+河 南 鹤 壁 5 件 进 口 带 鱼 外 包 装 检 出 阳 性 未 销 售 已 封 存	B_j I_j I_j I_j O O O O B_j I_j I_j I_j I_j O O B_j I_j O O O O O O
+上 海 成 立 救 治 新 冠 大 专 家 组 ： 钟 鸣 等 援 鄂 专 家 加 入	O O O O B_j I_j B_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j I_j O O
+张 文 宏 ： 上 海 现 本 地 病 例 后 没 有 扩 张 ， 与 市 民 卫 生 习 惯 很 有 关	O O O O B_j I_j O B_j I_j I_j I_j O B_j I_j I_j I_j O O O O O O O O O O O
+微 博 泄 露 新 冠 患 者 赵 某 某 隐 私 ， 成 都 一 男 子 被 行 政 处 罚	B_j I_j B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j I_j O B_j I_j I_j I_j
+成 都 确 诊 新 冠 女 孩 首 度 发 声 ： “ 我 也 是 受 害 者 ， 向 成 都 市 民 道 歉 ”	B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O O O B_j I_j I_j O O O O O O B_j I_j O
+国 家 卫 健 委 ： 8 日 全 国 新 增 15 例 确 诊 病 例	O O O O O O O O B_j I_j B_j I_j B_j I_j I_j I_j I_j I_j
+上 海 昨 日 无 新 增 本 地 新 冠 肺 炎 确 诊 病 例 ， 新 增 境 外 输 入 6 例 ， 治 愈 出 院 1 例	B_j I_j O O O B_j I_j O O O O O O O O O O O O O B_j I_j I_j I_j I_j I_j O B_j I_j B_j I_j I_j I_j
+武 汉 最 初 病 例 或 从 海 外 传 入 ？ 专 家 ： 目 前 还 缺 乏 很 多 证 据	B_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j O O O O O O O B_j I_j I_j I_j I_j I_j
+西 班 牙 一 养 老 院 暴 发 聚 集 感 染 已 造 成 40 人 死 亡	B_j I_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j O O O B_j I_j I_j I_j
+成 都 ： 新 增 4 例 本 土 确 诊 病 例 1 例 无 症 状 感 染 者	B_j I_j O B_j I_j O O B_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j I_j I_j
+成 都 市 新 增 4 例 新 冠 肺 炎 确 诊 病 例 和 1 名 无 症 状 感 染 者 病 例 详 情 公 布 →	B_j I_j O B_j I_j O O O O O O B_j I_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O
+成 都 今 日 共 计 新 增 4 例 本 土 病 例 2 5 . 5 2 万 人 已 检 测 核 酸	B_j I_j O O O O B_j I_j B_j I_j I_j I_j I_j I_j O O O O O O O O O O O O
+重 庆 出 现 1 例 复 阳 病 例 曾 在 9 月 入 境 时 确 诊	B_j I_j O O O O B_j I_j B_j I_j O O O O O O O O O
+新 疆 吐 鲁 番 新 增 3 例 无 症 状 感 染 者	B_j I_j I_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j
+巴 西 确 认 首 例 新 冠 二 次 感 染 病 例	B_j I_j O O B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j
+严 防 ！ 黑 龙 江 新 增 2 例 本 土 无 症 状 感 染 者	O O O B_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j
+约 翰 斯 · 霍 普 金 斯 大 学 ： 全 球 累 计 确 诊 病 例 超 7 0 0 0 万	O O O O O O O O O O O B_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j I_j I_j
+成 都 完 成 核 酸 采 样 145 万 人 ， 除 首 发 病 例 外 检 出 阳 性 11 人	B_j I_j O O B_j I_j O O O O O O O O O O O O O O B_j I_j I_j I_j
+成 都 郫 都 区 新 增 本 土 确 诊 病 例 2 例 病 例 详 情 公 布 →	B_j I_j I_j I_j I_j B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O
+绥 芬 河 新 增 2 例 无 症 状 感 染 者 ： 1 人 为 口 岸 装 卸 工 ， 1 人 为 学 生	B_j I_j I_j B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O O O O O O O O O
+印 度 新 增 新 冠 确 诊 29398 例 ， 累 计 近 980 万 例	B_j I_j B_j I_j O O B_j I_j I_j I_j O B_j I_j O B_j I_j I_j
+2020 年 诺 贝 尔 奖 颁 奖 仪 式 因 疫 情 改 为 线 上 举 行	B_j I_j I_j I_j I_j I_j O O O O O B_j I_j O O B_j I_j I_j I_j
+1 2 月 1 0 日 牡 丹 江 市 东 宁 市 、 绥 芬 河 市 各 新 增 1 例 本 土 确 诊 病 例	O O O O O O B_j I_j I_j I_j I_j I_j I_j O B_j I_j I_j I_j O B_j I_j O O B_j I_j I_j I_j I_j I_j
+美 国 9 日 新 增 新 冠 死 亡 病 例 3071 例 创 疫 情 暴 发 以 来 新 高	B_j I_j O O B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O O O
+世 卫 组 织 ： 全 球 新 冠 肺 炎 确 诊 超 6778 万 例	O O O O O B_j I_j I_j I_j I_j I_j B_j I_j O B_j I_j I_j
+成 都 新 增 3 例 本 土 确 诊 ， 均 系 昨 日 确 诊 病 例 的 关 联 病 例	B_j I_j B_j I_j B_j I_j I_j I_j I_j I_j O O O O O O O O O O O O O O
+上 海 昨 日 新 增 境 外 输 入 4 例 ， 治 愈 出 院 5 例	B_j I_j O O B_j I_j B_j I_j I_j I_j I_j I_j O B_j I_j B_j I_j I_j I_j
+特 朗 普 称 其 私 人 律 师 在 确 诊 感 染 新 冠 后 “ 状 态 很 好 ”	B_j I_j I_j O O B_j I_j I_j I_j O B_j I_j I_j I_j I_j I_j O O O O O O O
+美 国 新 冠 确 诊 超 1490 万 例 ， 死 亡 病 例 超 28.3 万 例	B_j I_j O O B_j I_j O B_j I_j I_j O B_j I_j O O B_j I_j I_j I_j
+成 都 新 增 1 例 确 诊 病 例 ， 系 白 天 通 报 病 例 丈 夫	B_j I_j B_j I_j B_j I_j I_j I_j I_j I_j O O O O O O O O O O
+上 海 昨 日 无 新 增 本 地 新 冠 肺 炎 确 诊 病 例 ， 新 增 境 外 输 入 7 例 ， 治 愈 出 院 3 例	B_j I_j O O O B_j I_j O O O O O O O O O O O O O B_j I_j I_j I_j I_j I_j O B_j I_j B_j I_j I_j I_j
+世 卫 组 织 ： 全 球 新 冠 肺 炎 确 诊 病 例 超 过 6587 万 例	O O O O O B_j I_j I_j I_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j
+美 国 新 增 203678 例 新 冠 肺 炎 确 诊 病 例 累 计 确 诊 超 1470 万 例	B_j I_j B_j I_j B_j I_j I_j I_j I_j I_j B_j I_j O O O O O O B_j I_j I_j I_j
+巴 西 新 增 新 冠 肺 炎 确 诊 病 例 26363 例 累 计 确 诊 超 660 万 例	B_j I_j B_j I_j O O O O B_j I_j I_j I_j I_j I_j O O O O O O O O
+特 朗 普 律 师 团 队 首 席 律 师 确 诊 新 冠 肺 炎	B_j I_j I_j O O O O B_j I_j I_j I_j B_j I_j O O O O
+内 蒙 古 满 洲 里 市 首 例 本 土 新 冠 肺 炎 患 者 治 愈 出 院	B_j I_j I_j I_j I_j I_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j O O B_j I_j
+青 岛 市 卫 健 委 ： 胶 州 密 切 接 触 者 核 酸 检 测 结 果 均 为 阴 性	O O O O O O O B_j I_j B_j I_j I_j I_j I_j O O O O O O O O B_j I_j
+天 津 新 增 一 例 本 土 确 诊 病 例 ， 系 6 岁 女 童	B_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j O O O O O O
+惨 不 忍 睹 ！ 纽 约 数 百 具 新 冠 肺 炎 病 亡 者 遗 体 无 人 认 领	O O O O O B_j I_j O O O B_j I_j I_j I_j I_j I_j I_j I_j I_j B_j I_j I_j I_j
+截 至 今 天 7 时 ， 内 蒙 古 满 洲 里 2 4 小 时 新 增 本 土 确 诊 病 例 3 例	O O O O O O O B_j I_j I_j I_j I_j I_j O O O O B_j I_j B_j I_j I_j I_j I_j I_j I_j I_j
+上 海 昨 日 无 新 增 本 地 新 冠 肺 炎 确 诊 病 例 ， 新 增 境 外 输 入 8 例	B_j I_j O O O B_j I_j O O O O O O O O O O O O O B_j I_j I_j I_j I_j I_j
+法 国 前 总 统 德 斯 坦 因 感 染 新 冠 病 毒 去 世 终 年 94 岁	B_j I_j I_j I_j I_j I_j I_j I_j O O O O O O O B_j I_j O O B_j I_j
+4 5 6 人 排 队 等 一 张 病 床 ！ 巴 西 里 约 新 冠 肺 炎 确 诊 病 例 激 增	O O O O O O O O O O O O B_j I_j I_j I_j B_j I_j I_j I_j O O O O B_j I_j
+1 7 2 人 感 染 ！ 德 国 最 大 肉 类 加 工 厂 再 度 暴 发 新 冠 聚 集 性 感 染	O O O O O O O B_j I_j O O B_j I_j I_j I_j I_j O O O O O O B_j I_j I_j I_j I_j
+世 卫 组 织 ： 全 球 新 冠 肺 炎 确 诊 超 6336 万 例	O O O O O B_j I_j I_j I_j I_j I_j B_j I_j B_j I_j I_j I_j
+青 岛 市 报 告 本 地 无 症 状 感 染 者 2 例	B_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j I_j I_j
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 病 例 9 例 ， 其 中 本 土 2 例 在 内 蒙 古	O O O O O O O O B_j I_j O O O O O O O O O B_j I_j I_j I_j O B_j I_j I_j
+世 卫 组 织 ： 全 球 新 冠 肺 炎 确 诊 超 6284 万 例	O O O O O B_j I_j I_j I_j I_j I_j B_j I_j B_j I_j I_j I_j
+美 国 新 冠 肺 炎 确 诊 病 例 超 1350 万 例	B_j I_j O O O O B_j I_j O O B_j I_j I_j I_j
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 18 例 ， 其 中 本 土 3 例	B_j I_j I_j I_j I_j O O O B_j I_j B_j I_j I_j I_j I_j O O O B_j I_j I_j
+美 国 新 冠 肺 炎 确 诊 病 例 超 过 1335 万	B_j I_j O O O O B_j I_j O O B_j I_j I_j I_j
+香 港 新 增 确 诊 84 例 ， 其 中 2 7 例 本 地 感 染 源 头 不 明	B_j I_j O O B_j I_j B_j I_j O O O O O O O O O O O O O O
+世 卫 ： 全 球 新 增 超 57 万 确 诊 病 例 ， 累 计 确 诊 超 6 0 0 7 万 例	O O O B_j I_j B_j I_j O B_j I_j I_j I_j O O O O O O O O O O O O O O
+香 港 第 四 波 疫 情 来 袭 ！ 新 增 病 例 多 与 一 个 群 体 有 关	B_j I_j O O O B_j I_j O O O O O O O O O O O B_j I_j O O
+山 西 霍 州 一 份 进 口 冷 冻 厄 瓜 多 尔 青 虾 外 包 装 检 出 阳 性	B_j I_j I_j I_j O O O O O O B_j I_j I_j I_j I_j I_j O O O O O B_j I_j
+香 港 新 增 确 诊 85 例 ， 其 中 1 6 例 本 地 感 染 源 头 不 明	B_j I_j B_j I_j O O B_j I_j O O O O O O O O O O O O O O
+满 洲 里 新 增 本 土 疑 似 病 例 1 例 ， 无 症 状 感 染 者 2 例	B_j I_j I_j B_j I_j O O B_j I_j I_j I_j I_j I_j O O O O O O O O O
+国 家 卫 健 委 ： 昨 日 新 增 确 诊 病 例 5 例 ， 均 为 境 外 输 入	B_j I_j I_j I_j I_j O O O B_j I_j B_j I_j I_j I_j I_j I_j O O O B_j I_j I_j I_j
+上 海 昨 日 无 新 增 本 地 病 例 ， 新 增 境 外 输 入 2 例	B_j I_j O O O O O O O O O O O O B_j I_j B_j I_j I_j I_j
+美 国 新 冠 肺 炎 确 诊 达 1254 万 死 亡 超 2 5 . 9 万 例	B_j I_j B_j I_j I_j I_j O O O B_j I_j O O O O O O O O O
+美 国 新 冠 确 诊 超 1237 万 ， 感 恩 节 出 行 加 剧 感 染	B_j I_j O O B_j I_j B_j I_j I_j O B_j I_j I_j O O B_j I_j I_j I_j
+西 班 牙 国 王 费 利 佩 六 世 因 接 触 新 冠 患 者 被 隔 离	O O O O O B_j I_j I_j I_j I_j O B_j I_j O O O O O B_j I_j
+关 于 网 传 广 西 贺 州 合 面 狮 电 厂 一 名 新 冠 肺 炎 密 切 接 触 者 的 情 况 说 明	O O O O B_j I_j I_j I_j O O O O O O O B_j I_j I_j I_j B_j I_j I_j I_j I_j O O O O O
+湖 北 新 冠 疫 情 专 家 李 十 月 逝 世 ， 出 差 途 中 突 发 脑 溢 血	O O O O O O B_j I_j I_j I_j I_j O O O B_j I_j O O O O B_j I_j I_j
+美 国 新 冠 肺 炎 确 诊 病 例 累 计 超 1218 万 例	B_j I_j O O O O B_j I_j O O O O B_j I_j I_j I_j
