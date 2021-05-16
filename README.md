@@ -4,11 +4,11 @@ Due to network problems, it is difficult to connect GitHub with my local softwar
 
 Briefly explain the types of files uploaded
 
-KG/ knowledge search, knowledge base question answering system without integration of deep learning model
+KG/ knowledge search, knowledge base question answering system without integration of deep learning model      Branches 2
 
-Relationship extraction/deep learning model
+Relationship extraction/deep learning model      Branches 1
 
-Relation extraction 3/ final knowledge base system
+Relation extraction 3/ final knowledge base system      Branches 3
 
 Two triple files
 
